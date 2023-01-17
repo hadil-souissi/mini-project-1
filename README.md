@@ -1,1 +1,1 @@
-# mini-project-1
+# mini-project : paper rock scissors
